@@ -18,10 +18,10 @@ Each route checks if the user is authenticated, a user cannot access his/her acc
 #### Sessions
 The webpage uses sessions to confirm that user is registered.
 
-#### #### Database
+#### Database
 Database stores all users, posts, user info.
 
-####Possible improvements
+#### Possible improvements
 As all applications this one can also be improved.
 
 Possible improvements:
