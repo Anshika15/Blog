@@ -5,10 +5,10 @@
 #### I have used Flask, Bootstrap, sqlite3 other libraries or packages.
 
 #### How the webpage works?
-The idea is simple. The user can register themselves, during registration you need to enter these fields:
-  username
-  Email
-  Password: it is checked to match and is hashed after checks are done
+The idea is simple. The user can register themselves, during registration you need to enter these fields: <br />
+  username   <br />
+  Email      <br />
+  Password: it is checked to match and is hashed after checks are done  <br />
 after registration it allows you to access dashboard, where you can see or create new posts. You can update your account info, update your profile picture.
 
 
